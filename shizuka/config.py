@@ -20,16 +20,16 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = "8744937"
-    API_HASH = "2f92b21f6c3ed48a7e1695fc5c21f63d"
+    API_ID = "15599295"
+    API_HASH = "4ce42998f7df4a64934294dadca28ae0"
     TOKEN = "5336039764:AAG7GcmSpWJlQjBn-aUaRnNLcbdoXZ-XuOc"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    STRING_SESSION = "1BVtsOL8Bu7SPTxygWyP0qGuauKPJdqFICFSUBx2A4mDC905VHviRrGld5yhhSD4iJ-jU1_wK1JiTMds83kUmp-tip9wAG539k7ejxWYSNJt1zRw_C3yrS7WC-BBnRBlU-_jUDx6flVsULZwu8CZbIGQj3Bg0Ox-ZknJ_BF1ivZZFP3U6vAfXI9NobCX4PaScv9c5Q6O03G5jnADo6FUogQCdUMDKnROcZY6s6Lkq2ig7lHmLiZmrEsXhbCP-Y83TMd4ifw_QLfvwL8fJ1zsYXwFUfZjPPnpnN_uCAzg3eOlConkseFSrzWaeVoi9PW7gxxwJJpkP-3Q94k3PYWuaO_T-oB6X3IY="
-    OWNER_ID = "5463205082"  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "its_star_boi"
-    SUPPORT_CHAT = "Best_Friendsafor_Ever"  # Your own group for support, do not add the @
+    STRING_SESSION = "1AZWarzUBu4OzXXVgrdfI-7W2-yRaq8uiMopQzK4hl08WqpwpmE4OFG4oPHGExhGW6UWUgoIH78Bbx2mavk2Jx_cT9qMzrx_xUb7BxVo2lgD6jU4-tON4MOy89VuzfUmbMOTLWveakEeaAcx7NhFPrn81rQNjodIdgDJoHmv6t_gee-n_1j6cWqCOy9AkImM09ORxsskpbzKcsgwWsPbi6lOCTXpJiRuLHufhXWBUu0QDxz176YaBHxYTWCWW_eIMCyXTrjJd5UTubSnGOVIu-RgicQNJknxRKnX4zl8_NHfydME37-n-3CPq3d5NFC8tBzaUTf3pkIoLFNcDui-hVcdjeScQf4k="
+    OWNER_ID = "5608390546"  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "YoungFaiz"
+    SUPPORT_CHAT = "ayrabots"  # Your own group for support, do not add the @
     BOT_NAME = ""
     UPDATES_CHANNEL = (
-        "Its_star_network"  # Your own channel for Updates of bot, Do not add @
+        "Ayraupdates"  # Your own channel for Updates of bot, Do not add @
     )
     JOIN_LOGGER = (
         "-1001621682412"
@@ -45,13 +45,13 @@ class Config(object):
     )  # try to kang this db ur big mothersfuckers i know your noob so only kanging my db
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
     WEBHOOK = None
-    INFOPIC = "https://telegra.ph/file/2f6c4b784ee0977777e93.jpg"
+    INFOPIC = "https://telegra.ph/file/6eda47c03eaf8b8c26cc4.jpg"
     URL = None
     SPAMWATCH_API = "RxyUymWXR0cd9vD63D9JYS~RlRGpekPMC~IBSMHacCafhfeUbRtG~5EowuC2D_5H"  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
-    BOT_USERNAME = "itz_shizuka_robot"
-    MONGO_DB_URI = "mongodb+srv://venomxspam097:a5t0d6w&@cluster0.zoh6lpb.mongodb.net/?retryWrites=true&w=majority"
-    BOT_ID = "5336039764"
+    BOT_USERNAME = "MissAqsa_bot"
+    MONGO_DB_URI = "mongodb+srv://its_star_boi:7234049299@cluster0.8twjh9e.mongodb.net/?retryWrites=true&w=majority"
+    BOT_ID = "5414076366"
 
     DRAGONS = get_user_list("elevated_users.json", "sudos")
 
