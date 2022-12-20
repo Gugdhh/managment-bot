@@ -22,8 +22,8 @@ class Config(object):
 
     API_ID = "15599295"
     API_HASH = "4ce42998f7df4a64934294dadca28ae0"
-    TOKEN = "5414076366:AAHM8PhG9SQBgwc6tAXS4SdXEkY4tdqThzI"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    STRING_SESSION = "1AZWarzUBu4OzXXVgrdfI-7W2-yRaq8uiMopQzK4hl08WqpwpmE4OFG4oPHGExhGW6UWUgoIH78Bbx2mavk2Jx_cT9qMzrx_xUb7BxVo2lgD6jU4-tON4MOy89VuzfUmbMOTLWveakEeaAcx7NhFPrn81rQNjodIdgDJoHmv6t_gee-n_1j6cWqCOy9AkImM09ORxsskpbzKcsgwWsPbi6lOCTXpJiRuLHufhXWBUu0QDxz176YaBHxYTWCWW_eIMCyXTrjJd5UTubSnGOVIu-RgicQNJknxRKnX4zl8_NHfydME37-n-3CPq3d5NFC8tBzaUTf3pkIoLFNcDui-hVcdjeScQf4k="
+    TOKEN = ""  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    STRING_SESSION = ""
     OWNER_ID = "5608390546"  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "YoungFaiz"
     SUPPORT_CHAT = "ayrabots"  # Your own group for support, do not add the @
