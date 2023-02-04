@@ -24,20 +24,20 @@ class Config(object):
     API_HASH = "4ce42998f7df4a64934294dadca28ae0"
     TOKEN = ""  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     STRING_SESSION = ""
-    OWNER_ID = "5608390546"  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "YoungFaiz"
-    SUPPORT_CHAT = "ayrabots"  # Your own group for support, do not add the @
+    OWNER_ID = "5846541835"  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "ITS_CUTE_BABU"
+    SUPPORT_CHAT = "X_TEAM_IMMORTALS_X"  # Your own group for support, do not add the @
     BOT_NAME = ""
     UPDATES_CHANNEL = (
         "Ayraupdates"  # Your own channel for Updates of bot, Do not add @
     )
     JOIN_LOGGER = (
-        "-1001621682412"
+        "-1001681264200"
     )  # Prints any new group the bot is added to, prints just the name and ID.
     REM_BG_API_KEY = "http://removebg.com"
     TEMP_DOWNLOAD_DIRECTORY = "none"
     EVENT_LOGS = (
-        "-1001621682412"
+        "-1001681264200"
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
     SQLALCHEMY_DATABASE_URI = "postgres://zygsjawf:kzExgeliPA4GGwVWDlXySLXCDafJGxUZ@castor.db.elephantsql.com/zygsjawf"  # do you hub your old heroku app database_URL then put here, most use 25days ago sql
     LOAD = (
